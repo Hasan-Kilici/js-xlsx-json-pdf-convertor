@@ -5,8 +5,8 @@ document.getElementById('input').addEventListener("change", (event) => {
 })
 
 let data = [{
-  "name": "jayanth",
-  "data": "scd",
+  "name": "hasan-kilici",
+  "data": "lmao",
   "abc": "sdef"
 }]
 
